@@ -253,8 +253,6 @@ pytest tests/ -v
 ---
 
 ## Author
-
-**eryks23**
 GitHub: [@eryks23](https://github.com/eryks23)               
 Repository: [github.com/eryks23/redis-high-performance-patterns](https://github.com/eryks23/redis-high-performance-patterns)
 
